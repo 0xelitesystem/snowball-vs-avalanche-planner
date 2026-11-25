@@ -1,8 +1,8 @@
-# Debt Payoff Planner
+# Snowball vs Avalanche Planner
 
 A single-file browser tool that compares the two common debt payoff methods, snowball and avalanche, and shows your debt-free date, total interest, and how much interest the plan saves against paying only minimums.
 
-**Live demo:** https://0xelitesystem.github.io/debt-payoff-planner/
+**Live demo:** https://0xelitesystem.github.io/snowball-vs-avalanche-planner/
 
 **Not financial advice.** This is an educational estimate based on the numbers you enter and a simple monthly interest model. Real loans vary in how they compound, charge fees, and apply payments. Use it to understand the methods, not as a recommendation. Confirm anything important with your lender or a qualified professional.
 
@@ -25,8 +25,8 @@ Runs entirely in your browser. No accounts, no analytics, no network calls, no d
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/debt-payoff-planner
-cd debt-payoff-planner
+git clone https://github.com/0xelitesystem/snowball-vs-avalanche-planner
+cd snowball-vs-avalanche-planner
 ```
 
 Open `index.html` in a browser. Or serve the folder with `python -m http.server` and visit http://localhost:8000.
